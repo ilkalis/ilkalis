@@ -62,9 +62,8 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ilkalis/ilkalis/output/snake.svg" alt="https://github.com/ilkalis/ilkalis/blob/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/ilkalis/ilkalis/output/snake.svg" alt="![Snake animation](https://github.com/ilkalis/ilkalis/blob/output/snake.svg)" />
 
-![Snake animation](https://github.com/ilkalis/ilkalis/blob/output/snake.svg)
 
 ###
 
